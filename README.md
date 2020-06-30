@@ -1,1 +1,3 @@
 # Game-of-Life
+
+Conway's Game of Life is a famous biological simulation that shows the result of evolution predetermined by the initial state of the game board. Typically, there will be a grid with individuals specified by occupied grid-points to simulate an ecosystem, and the simulation will run to update each new generation based on certain evolutionary rules until converging to an optimum solution where the grid no longer changes. In this project, I created my own take on the famous Game of Life Simulation, but rather than visualize the simulation, I tweaked it so that when the game runs, you can immediately see the final optimal solution. 
